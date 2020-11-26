@@ -10,5 +10,3 @@ Una volta configurato, collegarsi al link url localhost:80/phpmyadmin.
 E' necessario importare all'interno di questo url il database presente nel file.
 
 Per testare il funzionamento del microservizio, consigliamo l'utilizzo di postman, anche quest'ultimo è possibile scaricarlo online.
-
-Stiamo già provvedendo a creare un database relazione per una maggior configurazione e alla crezione del microservizio Carrello
